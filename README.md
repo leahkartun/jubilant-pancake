@@ -1,2 +1,2 @@
 # leah-kartun
-<h1>Hello World</h1>
+<h1>Coming Soon</h1>
